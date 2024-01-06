@@ -1,0 +1,7 @@
+    end_square = turtle.Turtle()
+    end_square.speed(0)
+    end_square.color("white")
+    end_square.shape("square")
+    end_square.shapesize(stretch_wid=10, stretch_len=20)
+    end_square.goto(0,0)
+    end_square.penup()
