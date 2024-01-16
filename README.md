@@ -6,7 +6,6 @@ This repository hosts the implementation of the classic arcade game, Pong. It ai
 ## Features
 
 - **Classic Gameplay:** Retains the essence of the original Pong game.
-- **Modern Graphics:** Updated visuals for a more engaging experience.
 - **Responsive Controls:** Smooth and intuitive control scheme.
 - **Cross-Platform Compatibility:** Accessible on various devices.
 
