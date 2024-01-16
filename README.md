@@ -11,7 +11,7 @@ This repository hosts the implementation of the classic arcade game, Pong. It ai
 - **Cross-Platform Compatibility:** Accessible on various devices.
 
 ## Used Framework:
-- **Turtle
+- **Turtle**
 
 ## Gameplay: 
 <img width="817" alt="Снимок экрана 2024-01-06 в 04 02 59" src="https://github.com/breezevna/PongGame/assets/125823447/abf628f5-036f-486f-92aa-7301c2352b47">
